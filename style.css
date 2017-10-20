@@ -1,0 +1,18 @@
+body {
+    background-image: url("maxresdefault.jpg")
+}
+
+#cc3 {
+    background: #ffffff;
+    margin: auto;
+    opacity: 0.5;
+    position: sticky;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+.inside {
+    position: absolute;
+}
